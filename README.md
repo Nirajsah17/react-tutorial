@@ -199,45 +199,45 @@ This repository is designed to help you learn React from beginner to advanced le
 ```bash 
 react-tutorial/src/
 ├── chapter-1-introduction-to-react/
-│   ├── 1-what-is-react.md
-│   ├── 2-setting-up-environment.md
-│   ├── 3-jsx-basics.md
-│   └── 4-components.md
+│   ├── 01-what-is-react.md
+│   ├── 02-setting-up-environment.md
+│   ├── 03-jsx-basics.md
+│   └── 04-components.md
 ├── chapter-2-state-and-props/
-│   ├── 1-understanding-state.md
-│   ├── 2-passing-props.md
-│   └── 3-handling-events.md
+│   ├── 01-understanding-state.md
+│   ├── 02-passing-props.md
+│   └── 03-handling-events.md
 ├── chapter-3-lifecycle-methods-and-hooks/
-│   ├── 1-lifecycle-methods.md
-│   ├── 2-introduction-to-hooks.md
-│   └── 3-advanced-hooks.md
+│   ├── 01-lifecycle-methods.md
+│   ├── 02-introduction-to-hooks.md
+│   └── 03-advanced-hooks.md
 ├── chapter-4-context-api-and-state-management/
-│   ├── 1-context-api.md
-│   ├── 2-state-management-libraries.md
-│   └── 3-advanced-state-management.md
+│   ├── 01-context-api.md
+│   ├── 02-state-management-libraries.md
+│   └── 03-advanced-state-management.md
 ├── chapter-5-routing-and-navigation/
-│   ├── 1-react-router.md
-│   ├── 2-nested-routes-and-parameters.md
-│   └── 3-protected-routes-and-authentication.md
+│   ├── 01-react-router.md
+│   ├── 02-nested-routes-and-parameters.md
+│   └── 03-protected-routes-and-authentication.md
 ├── chapter-6-forms-and-validation/
-│   ├── 1-controlled-components.md
-│   ├── 2-uncontrolled-components.md
-│   └── 3-form-validation.md
+│   ├── 01-controlled-components.md
+│   ├── 02-uncontrolled-components.md
+│   └── 03-form-validation.md
 ├── chapter-7-performance-optimization/
-│   ├── 1-memoization.md
-│   ├── 2-code-splitting-and-lazy-loading.md
-│   └── 3-profiling-and-optimization.md
+│   ├── 01-memoization.md
+│   ├── 02-code-splitting-and-lazy-loading.md
+│   └── 03-profiling-and-optimization.md
 ├── chapter-8-testing-react-applications/
-│   ├── 1-introduction-to-testing.md
-│   ├── 2-writing-tests.md
-│   └── 3-mocking-and-snapshot-testing.md
+│   ├── 01-introduction-to-testing.md
+│   ├── 02-writing-tests.md
+│   └── 03-mocking-and-snapshot-testing.md
 ├── chapter-9-advanced-react-patterns/
-│   ├── 1-higher-order-components.md
-│   ├── 2-render-props.md
-│   └── 3-custom-hooks.md
+│   ├── 01-higher-order-components.md
+│   ├── 02-render-props.md
+│   └── 03-custom-hooks.md
 ├── chapter-10-building-and-deploying-react-applications/
-│   ├── 1-building-for-production.md
-│   ├── 2-deployment.md
-│   └── 3-monitoring-and-maintenance.md
+│   ├── 01-building-for-production.md
+│   ├── 02-deployment.md
+│   └── 03-monitoring-and-maintenance.md
 └── README.md
 ```
