@@ -196,6 +196,7 @@ This repository is designed to help you learn React from beginner to advanced le
 
 ## Folder Structure
 
+```bash 
 react-tutorial/src/
 ├── chapter-1-introduction-to-react/
 │   ├── 1-what-is-react.md
@@ -239,3 +240,4 @@ react-tutorial/src/
 │   ├── 2-deployment.md
 │   └── 3-monitoring-and-maintenance.md
 └── README.md
+```
