@@ -1,12 +1,11 @@
 # Advance Hooks
 
-
 ## How would you implement a custom hook ?
 
 * Encapsulate reusable logic.
 
 
-**Example **
+**Example**
 
 
 ```javascript
